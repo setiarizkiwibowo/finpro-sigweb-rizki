@@ -385,7 +385,6 @@ button:hover span {
    font-weight: 500;
    color: var(--text-color);
    padding: 8px 40px;
-   border: 1px solid black;
    text-align: center;
 }
 
@@ -487,7 +486,6 @@ button:hover span {
    font-weight: 500;
    color: var(--text-color);
    padding: 8px 40px;
-   border: 1px solid black;
 }
 
 #map {
